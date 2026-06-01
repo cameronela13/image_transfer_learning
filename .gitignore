@@ -1,0 +1,6 @@
+.venv/
+data/seg_train/
+data/seg_test/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
